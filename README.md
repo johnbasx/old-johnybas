@@ -59,7 +59,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnybas)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://johnybas.com
+[website]: https://unclesbiryani.com
 [twitter]: https://twitter.com/johnybas
 [youtube]: https://youtube.com/johnybas
 [instagram]: https://instagram.com/johnybas
