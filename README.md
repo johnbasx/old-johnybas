@@ -1,12 +1,12 @@
 ### Hi, I'm JohnSky - [johnybas][website] 👋
 
-## I'm a Student/Developer/Photographer!
+## Student/Developer/Entrepreneur/Photographer!
 
-- 🔭 I’m currently working on my local Business named - [Uncle's Biryani][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I would love to collaborate with other developers & photographers for new projects
-- 🥅 2020 Goals: Contribute more to Open Source projects, business growth
-- ⚡ Interests: I love to draw/paint and play soccer
+- 🔭 Currently working on my local Business - [Uncle's Biryani][website]
+- 🌱 Literally learning everything 🤣
+- 👯 Love to collaborate with other developers & photographers for new projects
+- 🥅 2020 Goals: Contribute more to Open Source projects, business growth & self improvement
+- ⚡ Interests: Love to 🎨draw/paint and ⚽play soccer
 
 ### Connect with me:
 
