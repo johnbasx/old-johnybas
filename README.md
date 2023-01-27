@@ -1,4 +1,4 @@
-### Hi, I'm JohnSky - [johnybas][website] 👋
+### Hi, I'm JohnSky - [johnybas][foxbeta-website] 👋
 
 ## Entrepreneur | Student | Developer 
 
