@@ -1,6 +1,6 @@
 ### Hi, I'm JohnSky - [johnybas][website] 👋
 
-## Entrepreneur | Student | Developer | Entrepreneur
+## Entrepreneur [Director, CEO] | Student | Developer 
 
 - 🔭 Currently working on my Tech Business - [Foxbeta Pvt Ltd][foxbeta-webiste], Poultry Feed Industry - [Agocons Agrotech Industries Pvt Ltd][agocons-website], Biryani Business - [Uncle's Biryani][biryani-website]
 - 🌱 Literally learning everything 📚
