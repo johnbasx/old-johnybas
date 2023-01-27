@@ -1,12 +1,12 @@
 ### Hi, I'm JohnSky - [johnybas][website] 👋
 
-## Student/Developer/Entrepreneur/Photographer!
+## Entrepreneur | Student | Developer | Entrepreneur
 
-- 🔭 Currently working on my local Business - [Uncle's Biryani][website]
-- 🌱 Literally learning everything 🤣
-- 👯 Love to collaborate with other developers & photographers for new projects
-- 🥅 2020 Goals: Contribute more to Open Source projects, business growth & self improvement
-- ⚡ Interests: Love to 🎨draw/paint and ⚽play soccer
+- 🔭 Currently working on my Tech Business - [Foxbeta Pvt Ltd][foxbeta-webiste], Poultry Feed Industry - [Agocons Agrotech Industries Pvt Ltd][agocons-website], Biryani Business - [Uncle's Biryani][biryani-website]
+- 🌱 Literally learning everything 📚
+- 👯 Love to collaborate with other businesses, developers & photographers for new projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects, business growth & self improvement.
+- ⚡ Interests: Love to 🎨draw/paint and ⚽ play football/soccer.
 
 ### Connect with me:
 
@@ -59,7 +59,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnybas)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://unclesbiryani.com
+
+[foxbeta-website]: https://unclesbiryani.com
+[agocons-website]: https://unclesbiryani.com
+[biryani-website]: https://unclesbiryani.com
 [twitter]: https://twitter.com/johnybas
 [youtube]: https://youtube.com/johnybas
 [instagram]: https://instagram.com/johnybas
